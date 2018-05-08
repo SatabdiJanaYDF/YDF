@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="331976" started-at="2018-05-02T05:11:57Z" finished-at="2018-05-02T05:17:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="331976" started-at="2018-05-02T05:11:57Z" finished-at="2018-05-02T05:17:29Z">
+      <class name="YDF.automationFramework.testEditorCheckout">
+        <test-method status="PASS" signature="memCheckout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="memCheckout" is-config="true" duration-ms="47460" started-at="2018-05-02T05:11:57Z" finished-at="2018-05-02T05:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memCheckout -->
+        <test-method status="PASS" signature="testAdmincancel()[pri:1, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="testAdmincancel" duration-ms="19935" started-at="2018-05-02T05:12:44Z" finished-at="2018-05-02T05:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdmincancel -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="logout" is-config="true" duration-ms="7032" started-at="2018-05-02T05:13:04Z" finished-at="2018-05-02T05:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="memCheckout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="memCheckout" is-config="true" duration-ms="36189" started-at="2018-05-02T05:13:11Z" finished-at="2018-05-02T05:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memCheckout -->
+        <test-method status="PASS" signature="testLeadercancel()[pri:2, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="testLeadercancel" duration-ms="19314" started-at="2018-05-02T05:13:47Z" finished-at="2018-05-02T05:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLeadercancel -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="logout" is-config="true" duration-ms="7043" started-at="2018-05-02T05:14:07Z" finished-at="2018-05-02T05:14:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="memCheckout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="memCheckout" is-config="true" duration-ms="36019" started-at="2018-05-02T05:14:14Z" finished-at="2018-05-02T05:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memCheckout -->
+        <test-method status="PASS" signature="testReviewerNoOption()[pri:3, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="testReviewerNoOption" duration-ms="59682" started-at="2018-05-02T05:14:50Z" finished-at="2018-05-02T05:15:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReviewerNoOption -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="logout" is-config="true" duration-ms="7039" started-at="2018-05-02T05:15:49Z" finished-at="2018-05-02T05:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="memCheckout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="memCheckout" is-config="true" duration-ms="25789" started-at="2018-05-02T05:15:56Z" finished-at="2018-05-02T05:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memCheckout -->
+        <test-method status="PASS" signature="testMemberNoOption()[pri:4, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="testMemberNoOption" duration-ms="59412" started-at="2018-05-02T05:16:22Z" finished-at="2018-05-02T05:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMemberNoOption -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:YDF.automationFramework.testEditorCheckout@644baf4a]" name="logout" is-config="true" duration-ms="7041" started-at="2018-05-02T05:17:22Z" finished-at="2018-05-02T05:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- YDF.automationFramework.testEditorCheckout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
