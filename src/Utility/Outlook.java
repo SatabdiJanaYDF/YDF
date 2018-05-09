@@ -6,7 +6,7 @@ import java.awt.event.KeyEvent;
 
 public class Outlook {
  
-  public void OpenEmail() throws AWTException, InterruptedException {
+  public void testOpenEmail() throws AWTException, InterruptedException {
 	  
 	  Robot robo= new Robot();
 	  robo.keyPress(KeyEvent.VK_WINDOWS);

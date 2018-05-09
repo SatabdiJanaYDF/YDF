@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="YDF.automationFramework.testMemCheckout">
+      <class name="YDF.automationFramework.testLeaderCheckout">
         <methods>
-          <include name="testLeadercancel"/>
-          <include name="memCheckout"/>
           <include name="testAdmincancel"/>
-          <include name="testReviewerNoOption"/>
+          <include name="leadercheckout"/>
           <include name="testEditorNoOption"/>
           <include name="logout"/>
+          <include name="testReviewerNoOption"/>
+          <include name="testmemNooption"/>
         </methods>
-      </class> <!-- YDF.automationFramework.testMemCheckout -->
+      </class> <!-- YDF.automationFramework.testLeaderCheckout -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
